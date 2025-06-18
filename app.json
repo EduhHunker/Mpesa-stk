@@ -9,9 +9,6 @@
     "daraja",
     "mpesa-integration"
   ],
-  "website": "https://github.com/Fortunatusmokaya/MPESA#readme",
-  "repository": "https://github.com/Fortunatusmokaya/MPESA.git",
-  "logo": "https://telegra.ph/file/d6dab955fbaa42fce2280.jpg",
   "success_url": "/",
   "env": {
     "CONSUMER_KEY": {
