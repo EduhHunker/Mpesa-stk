@@ -39,7 +39,7 @@
 
    * Click the button below to deploy your app to Heroku:
 
-     [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=github://Fortunatusmokaya/MPESA-STK)
+     [![Deploy](https://www.herokucdn.com/deploy/button.svg)]
 
    * This will automatically create a Heroku app and deploy the project.
 
@@ -67,7 +67,7 @@
    Open your terminal and navigate to the directory where you want to clone the repository. Then, run the following command to clone the `MPESA-STK` repository from GitHub:
 
    ```bash
-   git clone [https://github.com/Fortunatusmokaya/MPESA-STK.git](https://github.com/Fortunatusmokaya/MPESA-STK.git)
+   git clone https://github.com/EduhHunker/Mpesa-stk.git
 
 This will clone the repository into a new directory named MPESA.
  * Navigate to the project directory:
